@@ -16,7 +16,6 @@ shopping_list = ["coffe", "baby waipes", "diapers", "beer"]
 p shopping_list [-2]
 
 # Add to the array
-shopping_list2 = ["bath toys"] 
-p shopping_list + shopping_list2
+shopping_list.push ("bath toys")
 # There are lots of fun things you can do with arrays:
 # https://ruby-doc.org/core-2.7.0/Array.html
